@@ -1,6 +1,5 @@
-# react-native-maps-example
-Example of react native maps using AirBnb's AirMap lib
-
+### To reproduce the bug:
+Start dragging the map by clicking on one of the markers
 ### How it was created:
 1. create react native project
 
